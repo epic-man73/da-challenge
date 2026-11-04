@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meet Momo</title>
+  </head>
+  <body>
+    <h1>Hi! I'm Momo the Hamster 🐹</h1>
+
+    <p>I am small, fluffy, and very busy doing absolutely nothing!</p>
+
+   <img src="file:///C:/Users/DELL/Downloads/Students/Students/01-pure-bignner/01-momo-the-hamster/STUDENT/assets/momo.svg" alt="Momo" width="220">
+
+   <h2>3 things that I love:</h2>
+
+   <ul>
+    <li>Crunchy carrots.</li>
+    <li>Running on my tiny wheel.</li>
+    <li>Sleeping all afternoon.</li>
+   </ul>
+
+    <h3>A fun fact about me:</h3>
+   <p>I can fit 7 snacks in my cheeks, maybe even 8!</p>
+
+    <strong><em>Thank you for visiting my site!</em></strong>
+  </body>
+</html>
